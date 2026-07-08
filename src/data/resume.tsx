@@ -8,10 +8,10 @@ export const DATA = {
   location: "Rajasthan, India",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Tech innovator, finance enthusiast, a seasoned backpacker and storyteller turning ideas into impact.",
+    "Builder at heart focused on startups, AI-powered products, and scalable healthcare systems.",
   summary:
-    "I started in sports, playing cricket competitively, before shifting to tech inspired by creators like MKBHD. Pursuing engineering, I discovered my love for building and problem-solving, working with a dozen startups in college. A state Mathematical Genius awardee, I’m passionate about travel, innovation, and entrepreneurship, with finance as a solid fallback.",
-  avatarUrl: "/me1.jpg",
+    "I'm a builder at heart. Whether it's launching startups, developing AI-powered applications, or designing scalable healthcare products, I enjoy turning ideas into reality. My interests lie at the intersection of technology, healthcare, finance, and entrepreneurship, and I'm always chasing the next problem worth solving.",
+  avatarUrl: "/anish_new_profile_2026.png",
   skills: [
     "React",
     "Next.js",
@@ -54,7 +54,7 @@ export const DATA = {
       },
       X: {
         name: "X",
-        url: "https://x.com/anishhsoni",
+        url: "https://x.com/anishpsoni",
         icon: Icons.x,
 
         navbar: true,
@@ -71,7 +71,55 @@ export const DATA = {
 
   work: [
     {
-      company: "CoReCo Technologies Private Limited",
+      company: "Capzul",
+      href: "https://capzul.in",
+      badges: [],
+      location: "Chandigarh, India",
+      title: "Founder & CEO",
+      logoUrl: "/capzul-logo.png",
+      start: "June 2026",
+      end: "Present",
+      description:
+        "Building Capzul to simplify healthcare for every family. Started with fast medicine delivery and now expanding into personalized care plans, medication adherence, and chronic care management so families can stay involved in their parents' healthcare.",
+    },
+    {
+      company: "Palira Inc.",
+      href: "https://palira.com",
+      badges: [],
+      location: "United States",
+      title: "Junior Engineer",
+      logoUrl: "/palira_logo.jpeg",
+      start: "October 2025",
+      end: "Present",
+      description:
+        "Contributing to product and engineering initiatives as part of the core team, collaborating remotely to ship reliable features and strengthen platform foundations.",
+    },
+    {
+      company: "Bucketlst",
+      href: "https://bucketlst.app",
+      badges: [],
+      location: "India",
+      title: "Founder",
+      logoUrl: "/bucketlst-logo.png",
+      start: "September 2025",
+      end: "Present",
+      description:
+        "Founded Bucketlst to redefine how people discover and plan travel. Building an AI-powered platform for personalized itineraries, curated experiences, and seamless trip planning while leading product vision, engineering, partnerships, and business strategy.",
+    },
+    {
+      company: "Medihut",
+      href: "https://medihut.in/",
+      badges: [],
+      location: "India",
+      title: "Founding Engineer",
+      logoUrl: "/medihut-logo-transparent.png",
+      start: "February 2025",
+      end: "June 2026",
+      description:
+        "Joined Medihut at an early stage to build its technology from the ground up. Led development of the customer app, admin dashboard, and backend infrastructure while partnering with founders on product strategy and operations. Helped digitize pharmacy workflows, streamline medicine delivery, and scale the platform using modern web and cloud technologies.",
+    },
+    {
+      company: "CoReCo Technologies",
       href: "https://corecotechnologies.com/",
       badges: [],
       location: "Pune, India",
@@ -94,18 +142,6 @@ export const DATA = {
       description:
         "Developing and implementing quantitative models for military operations research using MATLAB and Python, focusing on optimization, simulation, and decision analysis.",
     },
-     {
-      company: "Medihut",
-      href: "https://medihut.in/",
-      badges: [],
-      location: "India",
-      title: "Co-Founder and Tech lead",
-      logoUrl: "/medihut.png",
-      start: "February 2025",
-      end: "July 2025",
-      description:
-        "Lead the design and development of a digital-first medicine delivery ecosystem for underserved regions in Bihar. Building an end-to-end platform inspired by Blinkit, to ensure timely and affordable access to healthcare essentials."
-    },
     {
       company: "The Mainstreet Marketplace",
       href: "https://marketplace.mainstreet.co.in/",
@@ -117,6 +153,18 @@ export const DATA = {
       end: "January 2025",
       description:
         "Spearheaded the development of a custom CRM system, integrating automation and analytics to streamline content workflows, reduce post-production time by 30%, and enhance operational efficiency by 40%.",
+    },
+    {
+      company: "Weekend Watchdogs",
+      href: "",
+      badges: [],
+      location: "Kota, India",
+      title: "Co-founder",
+      logoUrl: "/weekend_watchdogs.jpg",
+      start: "July 2024",
+      end: "September 2024",
+      description:
+        "Co-founded Weekend Watchdogs to pioneer Kota's house-party scene. Built a community-first events startup that created memorable experiences while opening opportunities for new DJs, creators, and event entrepreneurs in the city's growing nightlife ecosystem.",
     },
     {
       company: "Device Doctor",
