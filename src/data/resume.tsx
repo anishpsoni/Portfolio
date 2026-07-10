@@ -40,7 +40,7 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/anishsoni29",
+        url: "https://github.com/anishpsoni",
         icon: Icons.github,
 
         navbar: true,
@@ -123,7 +123,7 @@ export const DATA = {
       href: "https://corecotechnologies.com/",
       badges: [],
       location: "Pune, India",
-      title: "Software Engineer Intern",
+      title: "Associate Software Engineer",
       logoUrl: "/coreco.png",
       start: "February 2025",
       end: "ongoing",
@@ -171,7 +171,7 @@ export const DATA = {
       href: "https://devicedoctorindia.com/",
       badges: [],
       location: "Remote",
-      title: "Software Developer",
+      title: "Software Developer Intern",
       logoUrl: "/device_doctor.svg",
       start: "July 2024",
       end: "September 2024",
@@ -183,7 +183,7 @@ export const DATA = {
       badges: [],
       href: "https://www.linkedin.com/company/infinitechltd/posts/?feedView=all",
       location: "Mauritius, Africa",
-      title: "Software Engineer",
+      title: "Software Engineer Intern",
       logoUrl: "/infini.svg",
       start: "May 2024",
       end: "July 2024",
